@@ -1,0 +1,292 @@
+/* LARGE DEVICE START*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.event-btn {
+   padding-left: 40px;
+}    
+.footer-middle {
+	padding-left: 59px;
+}    
+.course-start h6 {
+	padding: 8px 14px;
+}
+.fee h5 {
+	font-size: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 18px;
+	margin-left: 18px;
+}
+.navbar-brand img{
+    width: 220px
+}
+.btn-outline-success {
+	font-size: 16px;
+	padding: 3px 5px;
+}
+.navbar-nav form input{
+    margin-right: 0px!important
+}
+.blog-right {
+	padding-top: 40px;
+}
+}
+/* LARGE DEVICE END*/
+
+
+
+
+/*MEDIUM DEVICE START */
+@media (min-width: 768px) and (max-width: 991.98px) {
+.navbar-toggler i{
+    font-size: 20px
+}
+button:focus{
+    outline: none
+}
+.navbar-light .navbar-toggler {
+	margin-top: 10px;
+	margin-right: 5px;
+}    
+.navbar-nav {
+	text-align: center;
+}
+.navbar-collapse {
+	background: #ebebeb;
+    padding-top: 0;
+}
+.event-btn {
+   padding-left: 0px;
+}  
+.navbar-expand-lg .navbar-nav .nav-link {
+	 margin-left: 0px; 
+	padding-top: 20px;
+}
+.form-inline {
+	margin-left: 25%;
+	padding-bottom: 20px;
+}
+#banner {
+	padding-top: 40px;
+}
+.banner-left h1 {
+	font-size: 50px;
+}
+.banner-img{
+    padding-top: 30px
+}
+.about-img {
+	width: 500px;
+	margin-left: 120px;
+}
+.course-start h6 {
+	padding: 8px 20px;
+}
+.loan-itm {
+	transform: scale(1);
+}
+.query-right h6 {
+	padding: 12px 15px;
+}
+.footer-middle {
+    padding-left: 0px; 
+	padding-top: 30px;
+}
+.blog-form.form-inline{
+    margin-left: 0;
+}
+.blog-btn button {
+	margin-top: 0px !important;
+}
+}
+/*MEDIUM DEVICE START */
+
+
+
+
+/*SMALL DEVICE START */
+@media (min-width: 576px) and (max-width: 767.98px) {
+.navbar-toggler i{
+    font-size: 20px
+}
+button:focus{
+    outline: none
+}
+.navbar-light .navbar-toggler {
+	margin-top: 10px;
+	margin-right: 5px;
+}    
+.navbar-nav {
+	text-align: center;
+}
+.navbar-collapse {
+	background: #ebebeb;
+    padding-top: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	 margin-left: 0px; 
+	padding-top: 20px;
+}
+.event-btn {
+   padding-left: 0px;
+} 
+.form-inline {
+	margin-left: 25%;
+	padding-bottom: 20px;
+}
+#banner {
+	padding-top: 40px;
+}
+.banner-left h1 {
+	font-size: 50px;
+}
+.banner-img{
+    padding-top: 30px
+}
+#about {
+	padding-bottom: 70px;
+}
+.course-btn h6 {
+	padding: 12px 15px;
+}
+.ex-sm{
+    text-align: center
+}
+.fact-itm {
+	width: 375px;
+	margin-left: 14%;
+}
+.loan-itm {
+	width: 320px;
+	margin-left: 20%;
+}
+.course-itm {
+	width: 400px;
+	margin-left: 11%;
+}
+.event-itm {
+	width: 415px;
+	margin-left: 10%;
+}
+#loan {
+	padding-top: 40px;
+}
+.query-right{
+    padding-top: 20px
+}
+.footer-middle {
+    padding-left: 0px; 
+	padding-top: 30px;
+}
+.blog-form.form-inline{
+    margin-left: 0;
+}
+.blog-btn button {
+	margin-top: 0px !important;
+}
+}
+/*SMALL DEVICE START */
+
+
+
+/* EXTRA SMALL DEVICE START */
+@media (max-width: 575.98px) {
+.navbar-brand img{
+    width: 250px;
+    margin-left: 5px
+}
+.form-inline input {
+	margin-right: 5px !important;
+}
+.navbar-toggler i{
+    font-size: 20px
+}
+button:focus{
+    outline: none
+}
+.event-btn {
+    padding-left: 0px;
+} 
+.navbar-light .navbar-toggler {
+	margin-top: 10px;
+	margin-right: 5px;
+}    
+.navbar-nav {
+	text-align: center;
+}
+.navbar-collapse {
+	background: #ebebeb
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-left: 0px; 
+	margin-top: 15px;
+}    
+.form-control {
+	width: 72%;
+	margin-left: 15px;
+	margin-right: 1px;
+}
+#banner {
+	padding-top: 40px;
+}
+.banner-left h1 {
+	font-size: 50px;
+}
+.banner-img{
+    padding-top: 30px
+}
+.course-btn h6 {
+	margin-left: 0px;
+}
+.btn-link {
+	font-size: 16px;
+}
+#about {
+	padding-bottom: 70px;
+}
+.card-header {
+	padding: 0px 5px;
+    padding-bottom: 5px;
+}
+.card-body {
+	padding: 10px;
+}
+.btn {
+	padding: 0;
+}
+#course {
+	padding-top: 60px;
+    padding-bottom: 50px
+}
+#count {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.loan-itm2 {
+   transform: scale(.9); 
+}
+.loan-itm {
+	margin-top: 20px;
+    transform: scale(.9); 
+}
+.loan-prime{
+    margin: 0 auto
+}
+.query-right{
+    padding-top: 20px
+}
+.footer-middle {
+    padding-left: 0px; 
+	padding-top: 30px;
+}
+.course-start h6 {
+	padding: 8px 14px;
+}
+.blog-form button {
+	padding: 9px 14px;
+	margin-top: 36px !important;
+}
+.blog-form input {
+	width: 100% !important;
+}
+}
+/* EXTRA SMALL DEVICE END */
